@@ -1,0 +1,8 @@
+.alerts {
+    position:fixed; 
+    top: 3vh;
+    left: 65vw; 
+    width: 30%;
+    z-index: -1; 
+    border-radius:0px
+}
